@@ -5,17 +5,14 @@ for learning [Datomic](http://datomic.com) at a Clojure REPL.
 
 ## Getting Started
 
-Start a REPL:
+Set `DATOMIC_USERNAME` and `DATOMIC_PASSWORD` with the appropriate values then run:
 
-    # with lein 1
     lein repl
-
-    # with lein 2
-    lein trampoline repl
 
 Work through some of the tutorials in the tutorial directory,
 evaluating each form at the REPL. You might start with:
 
+* budapest.clj
 * hello_world.clj
 * social_news.clj
 * provenance.clj
