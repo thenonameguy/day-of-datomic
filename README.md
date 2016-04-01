@@ -5,7 +5,7 @@ for learning [Datomic](http://datomic.com) at a Clojure REPL.
 
 ## Getting Started
 
-Set `DATOMIC_USERNAME` and `DATOMIC_PASSWORD` with the appropriate values then run:
+Set `DATOMIC_USERNAME` and `DATOMIC_PASSWORD` env vars with the appropriate values then run:
 
     lein repl
 
